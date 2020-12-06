@@ -1,4 +1,5 @@
 # Real Estate Firm - Property Sale Data
+Simple EDA performed on the dataset. Visualizations performed on the data to furthermore understand the data.
 
 ### About the Data
 
@@ -13,17 +14,12 @@ This is an assumed data for property sale details. The data consists of both the
 * __area__ - Area in (ft.)
 * __price__ - Price of property
 * __status__ - Status of property - sold/not sold
-* __customer-id__ - Unique ID for the customer
-* __entity__ - Individual / Firm
-* __name__ - Customer first name
-* __surname__ - Customer last name
-* __year__ - Customer year of birth
-* __month__ - Customer month of birth
-* __day__ - Customer day of birth
-* __gender__ - Gender of customer
-* __country__ - Counrty 
-* __state__ - State
-* __purpose__ - Purpose - Home / Investment
-* __satisfaction-score__ - Customer Satisfaction score
-* __mortgage__ - Apllied for mortgage - Yes / No
-* __source__ - Source via which contacted the firm 
+* and many more
+
+
+### Libraries Used
+
+* numpy
+* pandas
+* matplotlib
+* seaborn
